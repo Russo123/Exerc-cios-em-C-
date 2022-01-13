@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dio\\POO\\ProjetoPOO\\ProjetoPOO.csproj",
-      "projectName": "ProjetoPOO",
-      "projectPath": "C:\\Dio\\POO\\ProjetoPOO\\ProjetoPOO.csproj",
+      "projectUniqueName": "C:\\Dio\\POO\\old\\ExemploPOO\\ExemploPOO.csproj",
+      "projectName": "ExemploPOO",
+      "projectPath": "C:\\Dio\\POO\\old\\ExemploPOO\\ExemploPOO.csproj",
       "packagesPath": "C:\\Users\\Wagner\\.nuget\\packages\\",
-      "outputPath": "C:\\Dio\\POO\\ProjetoPOO\\obj\\",
+      "outputPath": "C:\\Dio\\POO\\old\\ExemploPOO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wagner\\AppData\\Roaming\\NuGet\\NuGet.Config",
